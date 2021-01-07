@@ -18,7 +18,7 @@ A list of known-good hosts to run SourceBans++ on.<br/>
 ---
 ## Contributing
 Do you want to contribute? Awesome!\
-Just fork this repo, add your host and open a PR.
+Just fork this repo, add your host and open a PR. (or [Create a new Issue](https://github.com/sbpp/hosts/issues/new/choose))
 
 Here is a helpful list of all the table fields with a short explanation:
 |||
