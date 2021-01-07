@@ -1,5 +1,5 @@
 ---
-name: Add Host
+name: Add a Host
 about: This host should be added to the list!
 title: "[Add Host]"
 labels: documentation
