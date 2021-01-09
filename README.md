@@ -13,7 +13,8 @@ A list of known-good hosts to run SourceBans++ on.<br/>
 | Name | Minimal plan | Type | Data center locations | Trial | Free | Ideal for |
 |:----:|:------------:|:----:|:---------------------:|:-----:|:----:|:---------:|
 | [Hetzner VPS](https://www.hetzner.com/cloud) | [See Pricing](https://www.hetzner.com/cloud#pricing)<br/> (2.49 €/mo) | VPS | Germany<br/> Finland | No | No | Webserver<br/> MySQL database|
-| [NFO Servers](https://www.nfoservers.com) | [See Pricing](https://www.nfoservers.com/order-virtual-dedicated-server.php)<br/> (9.99 US$/mo) | VPS | USA<br/>Germany | Yes, 2 days | No | Gameserver<br/>Webserver<br/>MySQL database|
+| [NuclearFallout](https://www.nfoservers.com/virtual-dedicated-private-server-rentals.php) | [See Pricing](https://www.nfoservers.com/order-virtual-dedicated-server.php)<br/> (9.99 US$/mo) | VPS | USA<br/>Germany | Yes, 2 days | No | Gameserver<br/>Webserver<br/>MySQL database|
+| [NuclearFallout](https://www.nfoservers.com/webhosting.php) | [See Pricing](https://www.nfoservers.com/order-webhosting.php)<br/> (2.99 US$/mo) | Shared | USA | Yes, 2 days | No | Webserver<br/>MySQL database|
 
 ---
 ## Contributing
