@@ -17,6 +17,7 @@ A list of known-good hosts to run SourceBans++ on.<br/>
 | [OVHcloud VPS](https://www.ovhcloud.com/en-gb/vps/) | [See Pricing](https://www.ovhcloud.com/en-gb/vps/)<br/> (£3.60/mo) | VPS | France, Poland, Germany, UK, Australia, Singapore, Canada | No | No | Webserver<br/> MySQL database|
 | [OVHcloud web hosting](https://www.ovh.co.uk/web-hosting/) | [See Pricing](https://www.ovhcloud.com/fr/vps/)<br/> (£24/year) | Shared | France | No | No | Webserver|
 | [OVHcloud database hosting](https://www.ovh.co.uk/cloud-databases/) | [See Pricing](https://www.ovh.co.uk/cloud-databases/)<br/> (£5.50/month) | Shared | France | No | No | MySQL database|
+| [NFO Servers](https://www.nfoservers.com) | [See Pricing](https://www.nfoservers.com/order-virtual-dedicated-server.php)<br/> (9.99 US$/mo) | VPS | USA<br/>Germany | Yes, 2 days | No | Gameserver<br/>Webserver<br/>MySQL database|
 
 ---
 ## Contributing
